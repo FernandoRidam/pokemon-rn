@@ -9,7 +9,7 @@ Aplicativo Pokedex. Suas principais funcionalidades são:
 
 ### Screens
 
-| <img src="/screens/grid_cards" width="200">
+| <img src="/screens/grid_cards.png" width="200">
 | <img src="/screens/list_cards.png" width="200">
 | <img src="/screens/pokemon_details.png" width="200">
 
