@@ -1,5 +1,3 @@
-<img src="/src/assets/icon.png" height="55">
-
 # Pokedex RN
 
 Aplicativo Pokedex. Suas principais funcionalidades são:
