@@ -5,6 +5,9 @@ Aplicativo Pokedex. Suas principais funcionalidades são:
 1. Listar Pokemon.
 2. Exibir os principais dados dos Pokemon.
 
+### Protótipo
+- Design da aplicação [Figma](https://www.figma.com/file/wKxba8lkLf6AKtrsa6b6Ci/Pokedex-Mobile?node-id=13%3A624&t=BTjlUixOlrnT4cDg-1) - Minha Autoria.
+
 ### Screens
 
 | <img src="/screens/grid_cards.png" width="200">
